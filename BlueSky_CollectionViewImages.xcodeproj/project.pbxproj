@@ -7,15 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A714B53221A11AC6004946D6 /* FosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A714B53121A11AC6004946D6 /* FosViewController.swift */; };
+		A714B53421A128B6004946D6 /* fosCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A714B53321A128B6004946D6 /* fosCollectionViewCell.swift */; };
+		A714B53921A13110004946D6 /* Checkmarkempty@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A714B53621A13110004946D6 /* Checkmarkempty@2x.png */; };
+		A714B53A21A13110004946D6 /* Checkmarkempty@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A714B53721A13110004946D6 /* Checkmarkempty@3x.png */; };
+		A714B54121A1312C004946D6 /* Checkmark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A714B53E21A1312C004946D6 /* Checkmark@2x.png */; };
+		A714B54221A1312C004946D6 /* Checkmark@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A714B53F21A1312C004946D6 /* Checkmark@3x.png */; };
 		A768F9EE219FC70D0093EDAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A768F9ED219FC70D0093EDAC /* AppDelegate.swift */; };
 		A768F9F0219FC70D0093EDAC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A768F9EF219FC70D0093EDAC /* ViewController.swift */; };
 		A768F9F3219FC70D0093EDAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A768F9F1219FC70D0093EDAC /* Main.storyboard */; };
 		A768F9F6219FC70D0093EDAC /* BlueSky_CollectionViewImages.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A768F9F4219FC70D0093EDAC /* BlueSky_CollectionViewImages.xcdatamodeld */; };
 		A768F9F8219FC70E0093EDAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A768F9F7219FC70E0093EDAC /* Assets.xcassets */; };
 		A768F9FB219FC70E0093EDAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A768F9F9219FC70E0093EDAC /* LaunchScreen.storyboard */; };
+		A768FA03219FC8920093EDAC /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A768FA02219FC8920093EDAC /* CollectionViewCell.swift */; };
+		A768FA06219FCFC20093EDAC /* humanities.png in Resources */ = {isa = PBXBuildFile; fileRef = A768FA05219FCFC20093EDAC /* humanities.png */; };
+		A768FA0C219FCFCE0093EDAC /* social_science_cloud.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A768FA07219FCFCE0093EDAC /* social_science_cloud.jpeg */; };
+		A768FA0D219FCFCE0093EDAC /* physical_science_2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A768FA08219FCFCE0093EDAC /* physical_science_2.jpeg */; };
+		A768FA0E219FCFCE0093EDAC /* physical_science_1.png in Resources */ = {isa = PBXBuildFile; fileRef = A768FA09219FCFCE0093EDAC /* physical_science_1.png */; };
+		A768FA0F219FCFCE0093EDAC /* social_sciences_connection.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A768FA0A219FCFCE0093EDAC /* social_sciences_connection.jpeg */; };
+		A768FA10219FCFCE0093EDAC /* mathematics.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A768FA0B219FCFCE0093EDAC /* mathematics.jpg */; };
+		A7C6FA4E21A89F33005B5B8A /* myRecommendationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C6FA4D21A89F33005B5B8A /* myRecommendationsViewController.swift */; };
+		A7CE544A21A1DC01002BE967 /* loViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CE544921A1DC01002BE967 /* loViewController.swift */; };
+		A7CE544C21A1DCE7002BE967 /* loTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CE544B21A1DCE7002BE967 /* loTableViewCell.swift */; };
+		A7CE544F21A1E2A8002BE967 /* CheckMarkCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CE544D21A1E2A8002BE967 /* CheckMarkCell.swift */; };
+		A7CE545021A1E2A8002BE967 /* CheckMarkCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A7CE544E21A1E2A8002BE967 /* CheckMarkCell.xib */; };
+		A7CE545221A20797002BE967 /* empty-circle-png-7.png in Resources */ = {isa = PBXBuildFile; fileRef = A7CE545121A20797002BE967 /* empty-circle-png-7.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A714B53121A11AC6004946D6 /* FosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FosViewController.swift; sourceTree = "<group>"; };
+		A714B53321A128B6004946D6 /* fosCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fosCollectionViewCell.swift; sourceTree = "<group>"; };
+		A714B53621A13110004946D6 /* Checkmarkempty@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Checkmarkempty@2x.png"; sourceTree = "<group>"; };
+		A714B53721A13110004946D6 /* Checkmarkempty@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Checkmarkempty@3x.png"; sourceTree = "<group>"; };
+		A714B53E21A1312C004946D6 /* Checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Checkmark@2x.png"; sourceTree = "<group>"; };
+		A714B53F21A1312C004946D6 /* Checkmark@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Checkmark@3x.png"; sourceTree = "<group>"; };
 		A768F9EA219FC70D0093EDAC /* BlueSky_CollectionViewImages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlueSky_CollectionViewImages.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A768F9ED219FC70D0093EDAC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A768F9EF219FC70D0093EDAC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +49,19 @@
 		A768F9F7219FC70E0093EDAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A768F9FA219FC70E0093EDAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A768F9FC219FC70E0093EDAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A768FA02219FC8920093EDAC /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		A768FA05219FCFC20093EDAC /* humanities.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = humanities.png; path = BlueSky_CollectionViewImages/CollegeImages/humanities.png; sourceTree = SOURCE_ROOT; };
+		A768FA07219FCFCE0093EDAC /* social_science_cloud.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = social_science_cloud.jpeg; path = BlueSky_CollectionViewImages/CollegeImages/social_science_cloud.jpeg; sourceTree = SOURCE_ROOT; };
+		A768FA08219FCFCE0093EDAC /* physical_science_2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = physical_science_2.jpeg; path = BlueSky_CollectionViewImages/CollegeImages/physical_science_2.jpeg; sourceTree = SOURCE_ROOT; };
+		A768FA09219FCFCE0093EDAC /* physical_science_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = physical_science_1.png; path = BlueSky_CollectionViewImages/CollegeImages/physical_science_1.png; sourceTree = SOURCE_ROOT; };
+		A768FA0A219FCFCE0093EDAC /* social_sciences_connection.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = social_sciences_connection.jpeg; path = BlueSky_CollectionViewImages/CollegeImages/social_sciences_connection.jpeg; sourceTree = SOURCE_ROOT; };
+		A768FA0B219FCFCE0093EDAC /* mathematics.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mathematics.jpg; path = BlueSky_CollectionViewImages/CollegeImages/mathematics.jpg; sourceTree = SOURCE_ROOT; };
+		A7C6FA4D21A89F33005B5B8A /* myRecommendationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myRecommendationsViewController.swift; sourceTree = "<group>"; };
+		A7CE544921A1DC01002BE967 /* loViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loViewController.swift; sourceTree = "<group>"; };
+		A7CE544B21A1DCE7002BE967 /* loTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loTableViewCell.swift; sourceTree = "<group>"; };
+		A7CE544D21A1E2A8002BE967 /* CheckMarkCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckMarkCell.swift; sourceTree = "<group>"; };
+		A7CE544E21A1E2A8002BE967 /* CheckMarkCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CheckMarkCell.xib; sourceTree = "<group>"; };
+		A7CE545121A20797002BE967 /* empty-circle-png-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "empty-circle-png-7.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +75,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A714B53521A13110004946D6 /* Checkmarkempty.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				A7CE545121A20797002BE967 /* empty-circle-png-7.png */,
+				A714B53621A13110004946D6 /* Checkmarkempty@2x.png */,
+				A714B53721A13110004946D6 /* Checkmarkempty@3x.png */,
+			);
+			path = Checkmarkempty.imageset;
+			sourceTree = "<group>";
+		};
+		A714B53C21A1312C004946D6 /* Checkmark.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				A714B53E21A1312C004946D6 /* Checkmark@2x.png */,
+				A714B53F21A1312C004946D6 /* Checkmark@3x.png */,
+			);
+			path = Checkmark.imageset;
+			sourceTree = "<group>";
+		};
 		A768F9E1219FC70D0093EDAC = {
 			isa = PBXGroup;
 			children = (
@@ -58,13 +115,37 @@
 			children = (
 				A768F9ED219FC70D0093EDAC /* AppDelegate.swift */,
 				A768F9EF219FC70D0093EDAC /* ViewController.swift */,
+				A768FA02219FC8920093EDAC /* CollectionViewCell.swift */,
 				A768F9F1219FC70D0093EDAC /* Main.storyboard */,
 				A768F9F7219FC70E0093EDAC /* Assets.xcassets */,
+				A714B53C21A1312C004946D6 /* Checkmark.imageset */,
+				A714B53521A13110004946D6 /* Checkmarkempty.imageset */,
+				A768FA04219FCF8F0093EDAC /* CollegeImages */,
 				A768F9F9219FC70E0093EDAC /* LaunchScreen.storyboard */,
 				A768F9FC219FC70E0093EDAC /* Info.plist */,
 				A768F9F4219FC70D0093EDAC /* BlueSky_CollectionViewImages.xcdatamodeld */,
+				A714B53121A11AC6004946D6 /* FosViewController.swift */,
+				A714B53321A128B6004946D6 /* fosCollectionViewCell.swift */,
+				A7CE544921A1DC01002BE967 /* loViewController.swift */,
+				A7CE544B21A1DCE7002BE967 /* loTableViewCell.swift */,
+				A7CE544D21A1E2A8002BE967 /* CheckMarkCell.swift */,
+				A7CE544E21A1E2A8002BE967 /* CheckMarkCell.xib */,
+				A7C6FA4D21A89F33005B5B8A /* myRecommendationsViewController.swift */,
 			);
 			path = BlueSky_CollectionViewImages;
+			sourceTree = "<group>";
+		};
+		A768FA04219FCF8F0093EDAC /* CollegeImages */ = {
+			isa = PBXGroup;
+			children = (
+				A768FA0B219FCFCE0093EDAC /* mathematics.jpg */,
+				A768FA05219FCFC20093EDAC /* humanities.png */,
+				A768FA09219FCFCE0093EDAC /* physical_science_1.png */,
+				A768FA08219FCFCE0093EDAC /* physical_science_2.jpeg */,
+				A768FA07219FCFCE0093EDAC /* social_science_cloud.jpeg */,
+				A768FA0A219FCFCE0093EDAC /* social_sciences_connection.jpeg */,
+			);
+			path = CollegeImages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +206,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A768FA06219FCFC20093EDAC /* humanities.png in Resources */,
+				A768FA0F219FCFCE0093EDAC /* social_sciences_connection.jpeg in Resources */,
+				A714B54121A1312C004946D6 /* Checkmark@2x.png in Resources */,
+				A714B53921A13110004946D6 /* Checkmarkempty@2x.png in Resources */,
+				A7CE545221A20797002BE967 /* empty-circle-png-7.png in Resources */,
 				A768F9FB219FC70E0093EDAC /* LaunchScreen.storyboard in Resources */,
 				A768F9F8219FC70E0093EDAC /* Assets.xcassets in Resources */,
+				A768FA0C219FCFCE0093EDAC /* social_science_cloud.jpeg in Resources */,
+				A768FA0E219FCFCE0093EDAC /* physical_science_1.png in Resources */,
+				A714B54221A1312C004946D6 /* Checkmark@3x.png in Resources */,
+				A714B53A21A13110004946D6 /* Checkmarkempty@3x.png in Resources */,
+				A768FA0D219FCFCE0093EDAC /* physical_science_2.jpeg in Resources */,
+				A7CE545021A1E2A8002BE967 /* CheckMarkCell.xib in Resources */,
+				A768FA10219FCFCE0093EDAC /* mathematics.jpg in Resources */,
 				A768F9F3219FC70D0093EDAC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,7 +232,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				A768F9F6219FC70D0093EDAC /* BlueSky_CollectionViewImages.xcdatamodeld in Sources */,
+				A7C6FA4E21A89F33005B5B8A /* myRecommendationsViewController.swift in Sources */,
+				A714B53421A128B6004946D6 /* fosCollectionViewCell.swift in Sources */,
 				A768F9F0219FC70D0093EDAC /* ViewController.swift in Sources */,
+				A7CE544F21A1E2A8002BE967 /* CheckMarkCell.swift in Sources */,
+				A7CE544A21A1DC01002BE967 /* loViewController.swift in Sources */,
+				A768FA03219FC8920093EDAC /* CollectionViewCell.swift in Sources */,
+				A714B53221A11AC6004946D6 /* FosViewController.swift in Sources */,
+				A7CE544C21A1DCE7002BE967 /* loTableViewCell.swift in Sources */,
 				A768F9EE219FC70D0093EDAC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
